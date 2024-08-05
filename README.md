@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/41a21a21-ba8b-4f78-b812-d9ba35ee1ddd)
+
 # Weather App
 
 ## Project Description
