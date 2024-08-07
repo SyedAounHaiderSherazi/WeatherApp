@@ -19,4 +19,4 @@ The Weather App is a simple, interactive web application that allows users to ge
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/SyedAounHaiderSherazi/WeatherApp.git
